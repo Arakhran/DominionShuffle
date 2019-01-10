@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="menu_lock_lists">Listat lukittu</string>
-<string name="menu_unlock_lists">Listat avoinna</string>
-<string name="menu_sort">Järjestä</string>
-<string name="menu_shuffle">Sekoita</string>
-<string name="menu_last_result">Viimeiset tulokset</string>
-<string name="menu_clear_all">Tyhjennä kaikki</string>
-<string name="menu_close">Sulje</string>
-<string name="menu_compact_view">Tiivis lista</string>
-<string name="menu_expanded_view">Laajennettu lista</string>
-<string name="menu_exclude_all">Kiellä kaikki</string>
-<string name="menu_require_all">Vaadi kaikki</string>
-<string name="menu_load">Lataa</string>
-<string name="menu_save">Tallenna</string>
+<!--  Translated by Teemu Varpula <teemu.varpula@gmail.com> -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+	<string name="menu_lock_lists">Lukitse listat</string>
+	<string name="menu_unlock_lists">Avaa listat</string>
+	<string name="menu_sort">Järjestä</string>
+	<string name="menu_shuffle">Sekoita</string>
+	<string name="menu_last_result">Viimeiset tulokset</string>
+	<string name="menu_clear_all">Tyhjennä valinnat</string>
+	<string name="menu_close">Sulje</string>
+	<string name="menu_compact_view">Tiivis näkymä</string>
+	<string name="menu_expanded_view">Laajennettu näkymä</string>
+	<string name="menu_exclude_all">Estä kaikki</string>
+	<string name="menu_require_all">Valitse kaikki</string>
+	<string name="menu_load">Lataa</string>
+	<string name="menu_save">Tallenna</string>
+	<string name="menu_about">About</string>
+	<string name="menu_settings">Asetukset</string>
+	<string name="menu_launch_androminion">Käynnistä Androminion</string>
 </resources>
